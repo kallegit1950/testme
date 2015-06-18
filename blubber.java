@@ -1,3 +1,5 @@
 package com.test.kallegit.test
 
-public class Testme{} //comment
+publick class Testme{} //comment
+
+super{}
